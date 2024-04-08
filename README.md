@@ -5,7 +5,7 @@ De bestanden in deze repository laten toe om je lottowinst te berekenen. Let ech
 
 > Het resultaat van dit programma kan je mentale gezondheid schaden
 
-## Pythonscrpts
+## Pythonscripts
 De volgende scripts zijn aanwezig:
 - lotto_utils.py: een hulpbestand met een functie om de winstrang te berekenen
 - zin.ipynb: Jupyter notebook dat een antwoord geeft op de vraag "heeft het zin om op de Lotto te spelen"
@@ -14,7 +14,7 @@ De volgende scripts zijn aanwezig:
 ## Databestanden
 De data-directory bevat de Lottoresultaat van 2016 tot en met maart 2024
 
-Het Jupyter notebook bevat de code om de databestanden zelf te downloaden
+Het Jupyter notebook bestand bevat de code om de databestanden zelf te downloaden
 
 Het standalone script werkt niet wanneer er geen databestanden aanwezig zijn.
 
